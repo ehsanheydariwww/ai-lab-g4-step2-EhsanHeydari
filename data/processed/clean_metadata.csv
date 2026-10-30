@@ -1,0 +1,15 @@
+﻿file_name,file_path,genre
+blues.00000.wav,data/genres_original/blues/blues.00000.wav,blues
+blues.00002.wav,data/genres_original/blues/blues.00002.wav,blues
+blues.00003.wav,data/genres_original/blues/blues.00003.wav,blues
+classical.00000.wav,data/genres_original/classical/classical.00000.wav,classical
+classical.00001.wav,data/genres_original/classical/classical.00001.wav,classical
+hiphop.00000.wav,data/genres_original/hiphop/hiphop.00000.wav,hiphop
+hiphop.00001.wav,data/genres_original/hiphop/hiphop.00001.wav,hiphop
+hiphop.00004.wav,data/genres_original/hiphop/hiphop.00004.wav,hiphop
+hiphop.00005.wav,data/genres_original/hiphop/hiphop.00005.wav,hiphop
+hiphop.00013.wav,data/genres_original/hiphop/hiphop.00013.wav,hiphop
+jazz.00000.wav,data/genres_original/jazz/jazz.00000.wav,jazz
+rock.00001.wav,data/genres_original/rock/rock.00001.wav,rock
+rock.00003.wav,data/genres_original/rock/rock.00003.wav,rock
+rock.00004.wav,data/genres_original/rock/rock.00004.wav,rock
